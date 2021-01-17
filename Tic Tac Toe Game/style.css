@@ -1,0 +1,39 @@
+#display
+{
+  
+  text-align: center;
+  color:aqua;
+}
+
+.board
+{
+  text-align: center;
+  margin-top: 30px;
+}
+
+
+h6
+{
+  text-align: center;
+  margin-top: 5px;
+}
+
+body{
+  background-color:brown;
+}
+
+.btn{
+  
+  background-color:green;
+  margin-top: 20px;
+  
+}
+
+.col{
+
+  height:50px;
+  width:50px;
+  background-color:orange;
+  border:2px solid;
+  display:inline-block;
+}
